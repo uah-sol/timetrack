@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: UAHTimeTracking Pproject
 description: Aprende a controlar el tiempo
+show_downloads: false
